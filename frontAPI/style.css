@@ -1,0 +1,11 @@
+.Desocupado{
+    background-color: white;
+}
+
+.Ocupado{
+    background-color: yellow;
+}
+
+.card{
+    margin: 20px;
+}

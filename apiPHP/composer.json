@@ -1,0 +1,15 @@
+{
+    "name": "gabriel/api",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabriel"
+        }
+    ],
+    "require": {}
+}
